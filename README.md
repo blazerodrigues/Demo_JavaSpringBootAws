@@ -10,6 +10,6 @@ Demo deployment of a Spring Boot Application on Amazon Web Services (AWS) Elasti
 <br/>
 AWS Console screenshot: <br/>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/186231689-cc6dd886-ffbe-4f56-b4e6-d85c0a9b2209.png">
-<br/><br/><br/>
+<br/><br/>
 Application running screenshot:<br/>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/186231456-e76c89d8-e92a-43a0-a079-737323516bbc.png">
