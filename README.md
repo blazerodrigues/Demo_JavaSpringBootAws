@@ -1,4 +1,4 @@
-# Demo_SpringBoot_AwsDeployment
+# Demo Spring Boot Deployment on AWS
 
 Demo deployment of a Spring Boot Application on Amazon Web Services (AWS) Elastic Container Service (ECS) and Fargate
 
